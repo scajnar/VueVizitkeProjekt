@@ -20,12 +20,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9095b645-9953-4337-bd25-af7eb8e10951" name="Default Changelist" comment="second commit" />
+    <list default="true" id="9095b645-9953-4337-bd25-af7eb8e10951" name="Default Changelist" comment="plswork directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +82,7 @@
       <updated>1621095435649</updated>
       <workItem from="1621095436699" duration="3939000" />
       <workItem from="1621153539853" duration="257000" />
-      <workItem from="1621153809773" duration="519000" />
+      <workItem from="1621153809773" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1621153907211</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621153907211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="plswork directory">
+      <created>1621154391773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621154391773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +115,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -122,17 +129,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="plswork directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="plswork directory" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1621154688463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621154688463" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1621153805843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621153805843" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621153994353">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621154460383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621153994353" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621154460383" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1621097445040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
