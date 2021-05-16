@@ -26,7 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9095b645-9953-4337-bd25-af7eb8e10951" name="Default Changelist" comment="plswork directory">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plzwork/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/plzwork/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plzwork/public/Wood-2945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threejs-gltf-loader/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/threejs-gltf-loader/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <updated>1621095435649</updated>
       <workItem from="1621095436699" duration="3939000" />
       <workItem from="1621153539853" duration="257000" />
-      <workItem from="1621153809773" duration="2168000" />
+      <workItem from="1621153809773" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1621153907211</created>
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621154760993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="plswork directory">
+      <created>1621156723301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621156723301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,10 +159,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621153805843" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621154460383">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621156752101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621154460383" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621156752101" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1621097445040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
