@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9095b645-9953-4337-bd25-af7eb8e10951" name="Default Changelist" comment="plswork directory" />
+    <list default="true" id="9095b645-9953-4337-bd25-af7eb8e10951" name="Default Changelist" comment="plswork directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <updated>1621095435649</updated>
       <workItem from="1621095436699" duration="3939000" />
       <workItem from="1621153539853" duration="257000" />
-      <workItem from="1621153809773" duration="869000" />
+      <workItem from="1621153809773" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1621153907211</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621154391773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="plswork directory">
+      <created>1621154760993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621154760993</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
