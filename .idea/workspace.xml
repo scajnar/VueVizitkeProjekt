@@ -48,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621095435649</updated>
       <workItem from="1621095436699" duration="3939000" />
+      <workItem from="1621153539853" duration="257000" />
     </task>
     <servers />
   </component>
@@ -55,6 +56,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1621153805843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621153805843" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1621097445040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
