@@ -1,14 +1,10 @@
 <template>
-<div id="vizitka"></div>
+    <div class="vizitka"></div>
 </template>
 
-
-
-<script>
-/* eslint-disable no-undef */
-import vizitka from '/3d.vue'
+<script>/* eslint-disable no-undef */
 export default {
-  name: 'App',
+  name: 'vizitka',
   mounted() {
     const backgroundColor = 0x000000;
 
@@ -78,7 +74,7 @@ export default {
     // var light = new THREE.PointLight( 0xffffcc, 20, 200 );
     // light.position.set( 4, 30, -20 );
     // scene.add( light );
-  
+
     var light2 = new THREE.AmbientLight( 0xFFFFFF, 2, 100 );
     light2.position.set( 30, -10, 30 );
     scene.add( light2 );
@@ -110,16 +106,3 @@ export default {
   }
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-canvas { display: block; }
-html { overflow: hidden; background: #000; }
-</style>
