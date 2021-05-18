@@ -6,7 +6,7 @@
 
 <script>
 /* eslint-disable no-undef */
-import vizitka from '/3d.vue'
+//import vizitka from '/3d.vue'
 export default {
   name: 'App',
   mounted() {
@@ -29,8 +29,12 @@ export default {
     camera.position.set(5,5,5);
 
     var renderer = new THREE.WebGLRenderer( { antialias: true } );
+
     renderer.setPixelRatio( window.devicePixelRatio );
+    //renderer.setPixelRatio(1.00);
+
     renderer.setSize( window.innerWidth, window.innerHeight );
+    //renderer.setSize( 100, 100 );
     renderer.setClearColor( backgroundColor );//0x );
 
     renderer.toneMapping = THREE.LinearToneMapping;
@@ -119,6 +123,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.spodnji{
+  border-top:200px;
 }
 canvas { display: block; }
 html { overflow: hidden; background: #000; }
